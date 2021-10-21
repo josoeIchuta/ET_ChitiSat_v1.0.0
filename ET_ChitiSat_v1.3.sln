@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ET_ChitiSat_v1.3", "ET_ChitiSat_v1.3\ET_ChitiSat_v1.3.csproj", "{72EC956E-4664-4225-A094-0CF02BA848C4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{70DE5845-097A-446A-AA97-33D38AAABE44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72EC956E-4664-4225-A094-0CF02BA848C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EC956E-4664-4225-A094-0CF02BA848C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EC956E-4664-4225-A094-0CF02BA848C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EC956E-4664-4225-A094-0CF02BA848C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70DE5845-097A-446A-AA97-33D38AAABE44}.Debug|Any CPU.ActiveCfg = Debug
+		{70DE5845-097A-446A-AA97-33D38AAABE44}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {903F5336-FB12-4B2E-B67E-5136D5E1CF7F}
+	EndGlobalSection
+EndGlobal
